@@ -1,0 +1,2702 @@
+[
+  {
+    "date": "2025-07-01",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-01",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-02",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-03",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-04",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-05",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-06",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-07",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-08",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-09",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-10",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-11",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-12",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-13",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-14",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-15",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-16",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-17",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-21",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-22",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-23",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-24",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-25",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-26",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-27",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-28",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-29",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "user": "user_1",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "user": "user_2",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Streak maintained!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "user": "user_3",
+    "daily_log": [
+      {
+        "habit": "Read",
+        "completed": true,
+        "feedback": "You're on a roll!"
+      },
+      {
+        "habit": "Drink Water",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      },
+      {
+        "habit": "Walk 10k Steps",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "user": "user_4",
+    "daily_log": [
+      {
+        "habit": "Drink Water",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": true,
+        "feedback": "Great job! Keep it up!"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-30",
+    "user": "user_5",
+    "daily_log": [
+      {
+        "habit": "Walk 10k Steps",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Exercise",
+        "completed": false,
+        "feedback": null
+      },
+      {
+        "habit": "Meditate",
+        "completed": false,
+        "feedback": null
+      }
+    ]
+  }
+]
